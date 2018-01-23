@@ -1,2 +1,2 @@
-# mbmcmoddedsmp.github.io
-MBMCSMP Pages Repo, this contains all the files and whatnot for web.moddedsmp.net 
+# caboosh.github.io
+MBMCSMP Pages Repo, this is used as a staging site, this is where i test everything before pushing to the main Repo
