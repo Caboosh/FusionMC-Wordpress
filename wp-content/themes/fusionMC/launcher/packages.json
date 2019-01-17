@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "FusionMC",
+            "title": "Fusion - A SSP/SMP Modpack",
+            "version": "1.7",
+            "location": "fusionmc.json",
+            "priority": 1
+        }
+    ]
+}
