@@ -1,9 +1,0 @@
-.has-bg-img {
-	background-image: url('../header.png');
-	background-size:cover;
-	background-position: center center;
-	background-repeat: no-repeat;
-}
-.is-translucent-dark {
-	background: rgba(40,40,40,0.55) !important;
-}
