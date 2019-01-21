@@ -4,6 +4,24 @@
 	background-position: center center;
 	background-repeat: no-repeat;
 }
+.has-404-img {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../You-have-Ded.png');
+	background-size:cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
 .is-translucent-dark {
 	background: rgba(40,40,40,0.55) !important;
+}
+.is-minecraft {
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../backdrop.png");
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-top: 8px;
+	height: 76px;
+
+}
+.is-minecraft:hover {
+	background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../backdrop.png");
+	color: #b3b3b3 !important;
 }
