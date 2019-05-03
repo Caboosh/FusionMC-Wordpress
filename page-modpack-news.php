@@ -2,11 +2,11 @@
 <html>
 <head>
     <title>News Page</title>
-    <link rel="stylesheet" href="http://wordpress/wp-content/themes/fusionMC/css/news.css">
+    <link rel="stylesheet" href="https://fusionmodpacks.uk/wp-content/themes/fusionMC/css/news.css">
 </head>
 <body>
 <div class="logo">
-    <img src="http://wordpress/wp-content/themes/fusionMC/news.png" alt="">
+    <img src="https://fusionmodpacks.uk/wp-content/themes/fusionMC/news.png" alt="">
 </div>
 
 <div class="block">
