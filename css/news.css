@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 20px;
     font-size: 12pt;
-    background-image: url("http://wordpress/wp-content/themes/fusionMC/backdrop.png");
+    background-image: url("https://web.fusionmc.moddedsmp.net/wp-content/themes/fusionMC/backdrop.png");
 }
 .logo {
     padding: 0 0 12px 0;
@@ -13,7 +13,11 @@ body {
     width: 90%;
     padding: 12px;
     margin: 0 0 10px 0;
-    background-image: url("http://wordpress/wp-content/themes/fusionMC/block-bdrop.png");
+    background-image: url("https://web.fusionmc.moddedsmp.net/wp-content/themes/fusionMC/block-bdrop.png");
+}
+a {
+    color: #999999;
+    text-decoration: none;
 }
 h1 {
     font-size: 100%;
