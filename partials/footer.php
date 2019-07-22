@@ -2,14 +2,21 @@
 <footer class="footer">
     <div class="container">
         <div class="columns is-centered">
-            <div class="column is-two-fifths">
-                <h2><strong>Get in Touch.</strong></h2>
-                <ul>
-                    <li><a class="icon" href="https://github.com/dansup/bulma-templates">
-                            <i class="fab fa-github"></i>
-                        </a></li>
-                </ul>
-            </div>
+            <div class="column is-6">
+                <p class="bd-footer-link-title">
+                   Keep in touch.
+                </p>
+                <p class="bd-footer-link bd-has-subtitle">
+                    <a href="https://bulma.io/expo">
+                    <span class="bd-footer-link-icon has-text-star">
+                        <strong>
+                            Expo
+                        </strong>
+                        <em>
+                            Official Bulma showcase
+                        </em>
+                    </a>
+                </p></div>
             <div class="column is-two-fifths">
                 <h2><strong>Get in Touch.</strong></h2>
                 <ul>
@@ -22,11 +29,6 @@
 
                 </ul>
             </div>
-        </div>
-        <div class="content has-text-centered">
-            <p>
-
-            </p>
         </div>
     </div>
 </footer>

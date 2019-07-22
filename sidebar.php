@@ -1,23 +1,19 @@
 <!-- sidebar content -->
-<div class="column is-4 is-narrow">
+<div class="column is-6">
     <!-- sidebar subscriptions -->
     <div class="card-wrapper">
+        <div class="card-header">
+            <h1 class="card-header-title">Browse Around...</h1>
+        </div>
         <div class="card">
-            <header class="card-header">
-                <p class="card-header-title">
-                    Subscribe
-                </p>
-            </header>
-            <div class="card-content">
-                <div class="content">
-                    <?php
-                        if (is_active_sidebar( 'cf_sidebar-default') )
-                        {
-                            dynamic_sidebar( 'cf_sidebar-default');
-                        }
-                    ?>
+            <div class="card-content has-no-decoration">
+                <?php
+                    if (is_active_sidebar( 'cf_sidebar-default') )
+                    {
+                        dynamic_sidebar( 'cf_sidebar-default');
+                    }
+                ?>
                 </div>
-            </div>
         </div>
     </div>
 </div>

@@ -25,3 +25,31 @@
 	background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../backdrop.png");
 	color: #b3b3b3 !important;
 }
+.card-header-title {
+	color: #000000;
+}
+
+.card-wrapper {
+	padding-bottom: 22px;
+	width: 260px;
+}
+.has-overlap {
+position: relative;
+bottom: 86px;
+}
+.box-single-post {
+	padding: 20px;
+	font-size: 1.4rem;
+}
+.is-250px {
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+}
+.has-no-decoration {
+	text-decoration: none;
+
+}
+.is-340px {
+	width: 340px;
+}
