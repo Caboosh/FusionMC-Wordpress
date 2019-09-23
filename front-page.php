@@ -9,6 +9,7 @@
             <h2 class="subtitle" style="font-size: 1.4rem">
                 Welcome to adventures filled with magic, tech and old school tree punching!
             </h2>
+			<a href="https://fusionmodpacks.uk/launcher/FusionMC-Launcher.jar" class="button">Download the Launcher!</a>
         </div>
     </div>
 </section>
