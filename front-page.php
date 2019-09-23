@@ -33,7 +33,8 @@
                         Who we are
                     </p>
                     <p class="content">
-                        <?php the_field('who_we_are')?>
+                        FusionMC is a Modpack team dedicated to SSP and SMP Experiences, a small group of 5 who work on this when we can, timezones suck mang.
+                        We Are Recruiting by the way, drop an application on the Forums!
                     </p>
                 </div>
             </div>
@@ -49,7 +50,7 @@
                         FusionMC
                     </p>
                     <p class="content">
-	                    <?php the_field('main_modpack')?>
+                        This pack consists of around 140 mods, and is based on 1.12.2, there is an assortment of different mods, ranging from farming and food enhancement mods, to magic and tech mods!
                     </p>
                 </div>
             </div>
@@ -69,7 +70,7 @@
                         FusionMC Lite
                     </p>
                     <p class="content">
-	                    <?php the_field('lite_modpack')?>
+                        This Pack has a similar Mod Count as the main pack, but is called lite because 1.7.10 natually uses less RAM than newer versions of Java Minecraft, 3GB vs 6GB on the main Pack.
                     </p>
                 </div>
             </div>
@@ -85,7 +86,8 @@
                         FusionMC Mini
                     </p>
                     <p class="content">
-	                    <?php the_field('mini_modpack')?>
+                        This pack consists of around 67 mods, and is based on 1.7.10, This pack is aimed at super low end systems and as such should not take up too much RAM.
+                        We're Aiming for around 1-2 GB with this pack
                     </p>
                 </div>
             </div>
