@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>FUSIONMC | SSP and SMP Modpacks!</title>
+    <title><?= bloginfo('name')?></title>
     <?php wp_head() ?>
 </head>
 <body <?php body_class("homepage") ?> >
