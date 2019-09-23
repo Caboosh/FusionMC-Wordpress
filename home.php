@@ -75,7 +75,7 @@
                 <!-- end of pagination -->
             </div>
             <!-- sidebar content -->
-            <div class="column is-4 is-narrow">
+            <div class="column">
                 <!-- sidebar subscriptions -->
                 <div class="card-wrapper">
                     <?php get_sidebar('cf_sidebar-default') ?>
